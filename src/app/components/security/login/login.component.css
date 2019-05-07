@@ -1,0 +1,16 @@
+.center{
+  width: 75%;
+  margin: 10px auto;
+}
+
+.main-div{
+  height: 86vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-card  {
+  max-width: 400px;
+  background-color: rgb(248, 246,246);
+}
